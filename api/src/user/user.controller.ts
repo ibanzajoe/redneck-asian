@@ -28,6 +28,7 @@ export class UserController {
   currentUser(
     @Req() request
   ) {
+    console.log('user hit')
     const user = request.user;
     if(!user) throw new UnauthorizedException;
     return user;

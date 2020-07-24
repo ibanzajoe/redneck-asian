@@ -14,8 +14,11 @@
     "@nuxt/typescript-runtime": "^0.4.10",
     "@nuxtjs/axios": "^5.11.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "js-cookie": "^2.2.1",
     "node-sass": "^4.14.1",
     "nuxt": "^2.13.0",
+    "nuxt-property-decorator": "^2.7.2",
+    "nuxt-svg-loader": "^1.2.0",
     "sass-loader": "^9.0.2"
   },
   "devDependencies": {
